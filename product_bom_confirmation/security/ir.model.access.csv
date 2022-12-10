@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_product_bom_confirmation_product_bom_confirmation,product_bom_confirmation.product_bom_confirmation,model_product_bom_confirmation_product_bom_confirmation,base.group_user,1,1,1,1
