@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="add_date_oracle_sale_order" model="ir.config_parameter">
+            <field name="key">tx_sale_order_interface_timestamp</field>
+            <field name="value">2022-11-04 12:15:21.775978</field>
+        </record>
+    </data>
+</odoo>
